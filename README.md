@@ -1,1 +1,2 @@
-# pocket-lite-chrome-extension
+# Pocket Lite Chrome Extension
+
